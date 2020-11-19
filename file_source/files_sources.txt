@@ -1,1 +1,1 @@
-This folder will have all data fore the study
+Os dados deste estudo foram extraidos do site http://tabnet.datasus.gov.br/ em Nov/2020
